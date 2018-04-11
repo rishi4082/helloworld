@@ -1,2 +1,2 @@
 # helloworld
-I am a new to Github nad am trying to learn Github
+I am a new to Github and am trying to learn Github
